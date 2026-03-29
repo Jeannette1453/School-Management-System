@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Sensitive config ###
+src/main/resources/application.yaml
+src/test/resources/application-test.yaml
